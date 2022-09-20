@@ -1,7 +1,8 @@
 ### Apex PMD
 
 #### Installation
-1. Installation is straightforward , need to add path in the system environment variable
+1. Download PMD zip from [PMD Home Page](https://pmd.github.io/)
+1. Add `C:\pmd-bin-6.49.0\bin` path in the environment variables/ System Variables in your system. Note : Path will be relative
 2. You must have java set up in you machine
 
 #### Execution
