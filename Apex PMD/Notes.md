@@ -10,3 +10,5 @@
 2. -d is for providing directory to look into
 3. -R is the ruleset we are currently using ruleset from LWC recipe of salesforce.
 4. --report-file is where the output report is stored
+5. There has to be already an existing html file where output can be written into
+[Had issues while writing so created a new file for this `index.html` ]
